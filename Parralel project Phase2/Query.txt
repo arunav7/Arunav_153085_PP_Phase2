@@ -1,0 +1,1 @@
+create table wallet(name varchar(21),mobNo varchar(21),balance int);
